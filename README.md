@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=9583b6&height=15&section=header&text=%20&fontSize=20&animation=scaleIn&align="center")
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=15&section=header&text=%20&fontSize=20&animation=scaleIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9583b6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ana+Paula;I'm+21+years+old;I'm+from+Brazil;I'm+a+studying+Software+Engineering;Be+Welcome!+:%29)]([https://git.io/typing-svg])
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9583b6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ana+Paula;I'm+22+years+old;I'm+from+Brazil;I'm+a+studying+Software+Engineering;Be+Welcome!+:%29)]([https://git.io/typing-svg])
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=15&section=header&text=%20&fontSize=20&animation=scaleIn)
 <div align="center">  
